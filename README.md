@@ -5,5 +5,5 @@
 - 🌱 Estudando no momento Python, JS, HTMl e CSS
 - 📫 Entre em contato comigo: lfbruckmattos@gmail.com
 - 🔮 No futuro pretendo me tornar um desenvolvedor Full-Stack
-- 🗣️ Meus idiomas: Portugues (nativo), Ingles (avançado), Espanhol (inermediário)
+- 🗣️ Meus idiomas: Portugues (nativo), Ingles (avançado), Espanhol (intermediário)
 
