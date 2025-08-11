@@ -1,14 +1,17 @@
-### OLÁ! Sou o Luiz Filipe Bruck Reis Mattos
+### 👋  Luiz Filipe Bruck Reis Mattos
 
 
-- 🔭 Faço faculdade de Engenharia de Software
-- 🌱 Estudando no momento Python, JS, HTMl e CSS
-- 📫 Entre em contato comigo: lfbruckmattos@gmail.com
-- 🔮 Pretendo me tornar um desenvolvedor Full-Stack
-- 🗣️ Meus idiomas: Portugues (nativo), Ingles (avançado), Espanhol (intermediário)
+- 🎓 Software Engineering student at [Instituto InfNet](https://www.infnet.edu.br).  
+- 💼 Commercial representative and aspiring software engineer.  
+- 🌎 Open to opportunities in **Brazil** and **worldwide**.  
+- 💡 Passionate about technology, data analysis, and building efficient solutions.
 
-Atualmente estou no 5º período cursando a graduação de Bacharelado em Engenharia de Software e tenho 20 anos.
-
-Busco um estágio em Engenharia de Software onde possa aplicar e expandir meus conhecimentos, focando em oportunidades de trabalho remoto em empresas nacionais e internacionais
-
-Tenho boas habilidades interpessoais e me sinto confortável trabalhando em equipe, sendo altamente motivado por desafios na área de desenlvimento e programação de softwares.
+## 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=fff)
