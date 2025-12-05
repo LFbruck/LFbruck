@@ -6,7 +6,7 @@
 - 🌎 Open to opportunities in **Brazil** and **worldwide**.  
 - 💡 Passionate about technology, data analysis, and building efficient solutions.
 
-LINKEDIN: linkedin.com/in/luiz-filipe-bruck-reis-mattos-651497268/
+Linkedin: [https://www.linkedin.com/in/luiz-filipe-bruck-reis-mattos-651497268](https://www.linkedin.com/in/luiz-filipe-bruck-reis-mattos-651497268/)
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
